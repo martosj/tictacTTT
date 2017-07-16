@@ -1,3 +1,5 @@
+#!/bin/bash
+
 curl "https://ga-library-api.herokuapp.com/sign-up" \
   --include \
   --request POST \
